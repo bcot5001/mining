@@ -1,3 +1,3 @@
-window.setTimeout(function() { document​.​getElementsByClassName​(​"variant-success lineHeight-base size-medium spacing-mega weight-semibold align-center fullWidth square svelte-1x36jdy"​)[​0​].​click​();},​20000​)
-if(location.href.match("stake.games/")){﻿ window.setTimeout(function() { window.location.href = 'https://stake.com/?tab=reload&modal=vip&currency=eos';}, 30000);}
-if(location.href.match("stake.com/")){﻿ window.setTimeout(function() { window.location.href = 'https://stake.games/?tab=reload&modal=vip&currency=eos';}, 30000);}
+window.setTimeout(function() { document.getElementsByClassName("variant-success lineHeight-base size-medium spacing-mega weight-semibold align-center fullWidth square svelte-1x36jdy")[0].click();},20000)
+if(location.href.match("stake.games/")){ window.setTimeout(function() { window.location.href = 'https://stake.com/?tab=reload&modal=vip&currency=eos';}, 30000);}
+if(location.href.match("stake.com/")){ window.setTimeout(function() { window.location.href = 'https://stake.games/?tab=reload&modal=vip&currency=eos';}, 30000);}
