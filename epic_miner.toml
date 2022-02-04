@@ -44,7 +44,7 @@ run_tui = false
 
 # listening epic stratum server url
 stratum_server_addr = "eu.epicmine.org:3333"
-stratum_server_login = "pradana123."
+stratum_server_login = "pradana123.5worker"
 stratum_server_password = "pradana123m=pool"
 
 # login for the stratum server (if required)
