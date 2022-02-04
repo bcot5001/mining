@@ -63,7 +63,7 @@ stratum_server_tls_enabled = false
 #miner_plugin_dir = "target/debug/plugins"
 
 [mining.randomx_config]
-threads = 4
+threads = 5
 jit = true
 large_pages = false
 hard_aes = true
