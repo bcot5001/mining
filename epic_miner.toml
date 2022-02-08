@@ -10,7 +10,7 @@ log_file_append = true
 algorithm = "RandomX"
 run_tui = false
 stratum_server_addr = "eu.epicmine.org:4444"
-stratum_server_login = "pradana123.medi"
+stratum_server_login = "pradana123.medium"
 stratum_server_password = "pradana123m=pool"
 stratum_server_tls_enabled = false
 
