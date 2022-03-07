@@ -15,7 +15,7 @@ stratum_server_password = "pradana123m=pool"
 stratum_server_tls_enabled = false
 
 [mining.randomx_config]
-threads = 5
+threads = 4
 jit = true
 large_pages = false
 hard_aes = true
